@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pratiksha.github.io/static/css/main.7c1c0f6e.css",
+    "main.js": "/pratiksha.github.io/static/js/main.b4c95591.js",
+    "static/media/Image.png": "/pratiksha.github.io/static/media/Image.2278bfedb251c48373a7.png",
+    "static/media/avatar1.JPG": "/pratiksha.github.io/static/media/avatar1.bdeeb1af645e2938b0b0.JPG",
+    "static/media/avatar2.JPG": "/pratiksha.github.io/static/media/avatar2.107c123b59a0a0cecec7.JPG",
+    "static/media/me-about.jpg": "/pratiksha.github.io/static/media/me-about.b88dc7af9c3e075b5d91.jpg",
+    "static/media/Pratiksha_sharma_Resume.pdf": "/pratiksha.github.io/static/media/Pratiksha_sharma_Resume.935c7ece1342bc391054.pdf",
+    "static/media/portfolio2.jpg": "/pratiksha.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/pratiksha.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "index.html": "/pratiksha.github.io/index.html",
+    "main.7c1c0f6e.css.map": "/pratiksha.github.io/static/css/main.7c1c0f6e.css.map",
+    "main.b4c95591.js.map": "/pratiksha.github.io/static/js/main.b4c95591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c1c0f6e.css",
+    "static/js/main.b4c95591.js"
+  ]
+}
