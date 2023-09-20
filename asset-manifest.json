@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/pratiksha.github.io/static/css/main.7c1c0f6e.css",
-    "main.js": "/pratiksha.github.io/static/js/main.b4c95591.js",
-    "static/media/Image.png": "/pratiksha.github.io/static/media/Image.2278bfedb251c48373a7.png",
-    "static/media/avatar1.JPG": "/pratiksha.github.io/static/media/avatar1.bdeeb1af645e2938b0b0.JPG",
-    "static/media/avatar2.JPG": "/pratiksha.github.io/static/media/avatar2.107c123b59a0a0cecec7.JPG",
-    "static/media/me-about.jpg": "/pratiksha.github.io/static/media/me-about.b88dc7af9c3e075b5d91.jpg",
-    "static/media/Pratiksha_sharma_Resume.pdf": "/pratiksha.github.io/static/media/Pratiksha_sharma_Resume.935c7ece1342bc391054.pdf",
-    "static/media/portfolio2.jpg": "/pratiksha.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio1.jpg": "/pratiksha.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "index.html": "/pratiksha.github.io/index.html",
-    "main.7c1c0f6e.css.map": "/pratiksha.github.io/static/css/main.7c1c0f6e.css.map",
-    "main.b4c95591.js.map": "/pratiksha.github.io/static/js/main.b4c95591.js.map"
+    "main.css": "/bhagyeshkurlekar/static/css/main.8a8cd3ac.css",
+    "main.js": "/bhagyeshkurlekar/static/js/main.31fa65b0.js",
+    "static/media/avatar2.JPG": "/bhagyeshkurlekar/static/media/avatar2.107c123b59a0a0cecec7.JPG",
+    "static/media/Me.png": "/bhagyeshkurlekar/static/media/Me.9b9a84c4e0381a7d8cfa.png",
+    "static/media/twitter.png": "/bhagyeshkurlekar/static/media/twitter.7314250a605a68d2683f.png",
+    "static/media/CMS.jpeg": "/bhagyeshkurlekar/static/media/CMS.2c0ea32c325e31bc33ab.jpeg",
+    "static/media/me3.jpg": "/bhagyeshkurlekar/static/media/me3.635f90f69fbcc08efbd3.jpg",
+    "static/media/Bhagyesh_Prashant_Kurlekar_Resume.pdf": "/bhagyeshkurlekar/static/media/Bhagyesh_Prashant_Kurlekar_Resume.62f68767464196c77325.pdf",
+    "static/media/inventory.webp": "/bhagyeshkurlekar/static/media/inventory.c23a47523f94a0c3dced.webp",
+    "static/media/Sudeep.jpeg": "/bhagyeshkurlekar/static/media/Sudeep.7b1d7a4e2c72f82840b3.jpeg",
+    "index.html": "/bhagyeshkurlekar/index.html",
+    "main.8a8cd3ac.css.map": "/bhagyeshkurlekar/static/css/main.8a8cd3ac.css.map",
+    "main.31fa65b0.js.map": "/bhagyeshkurlekar/static/js/main.31fa65b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c1c0f6e.css",
-    "static/js/main.b4c95591.js"
+    "static/css/main.8a8cd3ac.css",
+    "static/js/main.31fa65b0.js"
   ]
 }
