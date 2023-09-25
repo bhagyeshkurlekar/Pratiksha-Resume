@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bhagyeshkurlekar/static/css/main.8a8cd3ac.css",
-    "main.js": "/bhagyeshkurlekar/static/js/main.31fa65b0.js",
-    "static/media/avatar2.JPG": "/bhagyeshkurlekar/static/media/avatar2.107c123b59a0a0cecec7.JPG",
-    "static/media/Me.png": "/bhagyeshkurlekar/static/media/Me.9b9a84c4e0381a7d8cfa.png",
-    "static/media/twitter.png": "/bhagyeshkurlekar/static/media/twitter.7314250a605a68d2683f.png",
-    "static/media/CMS.jpeg": "/bhagyeshkurlekar/static/media/CMS.2c0ea32c325e31bc33ab.jpeg",
-    "static/media/me3.jpg": "/bhagyeshkurlekar/static/media/me3.635f90f69fbcc08efbd3.jpg",
-    "static/media/Bhagyesh_Prashant_Kurlekar_Resume.pdf": "/bhagyeshkurlekar/static/media/Bhagyesh_Prashant_Kurlekar_Resume.62f68767464196c77325.pdf",
-    "static/media/inventory.webp": "/bhagyeshkurlekar/static/media/inventory.c23a47523f94a0c3dced.webp",
-    "static/media/Sudeep.jpeg": "/bhagyeshkurlekar/static/media/Sudeep.7b1d7a4e2c72f82840b3.jpeg",
-    "index.html": "/bhagyeshkurlekar/index.html",
-    "main.8a8cd3ac.css.map": "/bhagyeshkurlekar/static/css/main.8a8cd3ac.css.map",
-    "main.31fa65b0.js.map": "/bhagyeshkurlekar/static/js/main.31fa65b0.js.map"
+    "main.css": "/pratikshasharma/static/css/main.b02ce74e.css",
+    "main.js": "/pratikshasharma/static/js/main.6ac57f6b.js",
+    "static/media/avatar1.JPG": "/pratikshasharma/static/media/avatar1.bdeeb1af645e2938b0b0.JPG",
+    "static/media/avatar2.JPG": "/pratikshasharma/static/media/avatar2.107c123b59a0a0cecec7.JPG",
+    "static/media/portfolio1.webp": "/pratikshasharma/static/media/portfolio1.5a2fba16a9ec2350c9aa.webp",
+    "static/media/Image.png": "/pratikshasharma/static/media/Image.e6b940b5a743ada73943.png",
+    "static/media/Movie_recommender.png": "/pratikshasharma/static/media/Movie_recommender.5d565ad1d4a512cf6ed5.png",
+    "static/media/Customer_Analytics.jpeg": "/pratikshasharma/static/media/Customer_Analytics.9812abafd484bff5596b.jpeg",
+    "static/media/me-about.jpg": "/pratikshasharma/static/media/me-about.b88dc7af9c3e075b5d91.jpg",
+    "static/media/Pratiksha_sharma_resumenew_roman.pdf": "/pratikshasharma/static/media/Pratiksha_sharma_resumenew_roman.45b9ccd8dfc8934df2b7.pdf",
+    "index.html": "/pratikshasharma/index.html",
+    "main.b02ce74e.css.map": "/pratikshasharma/static/css/main.b02ce74e.css.map",
+    "main.6ac57f6b.js.map": "/pratikshasharma/static/js/main.6ac57f6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a8cd3ac.css",
-    "static/js/main.31fa65b0.js"
+    "static/css/main.b02ce74e.css",
+    "static/js/main.6ac57f6b.js"
   ]
 }
